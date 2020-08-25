@@ -2,6 +2,7 @@
 #
 # This file is released under the LGPL license.
 # See LICENSE in the root of the repository for full licensing details.
+import setuptools
 from distutils.core import setup
 
 
